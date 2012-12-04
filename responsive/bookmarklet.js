@@ -1,0 +1,1 @@
+javascript:void(function()%7Bvar%20d%20=%20document,a%20=%20'setAttribute',s%20=%20d.createElement('script');s%5Ba%5D('type','text/javascript');s%5Ba%5D('src','https://raw.github.com/feichang/demo-tools/master/responsive/responsive-test.js');d.head.appendChild(s);%7D)();
